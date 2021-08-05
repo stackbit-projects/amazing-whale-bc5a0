@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Collaboration Simplified
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: mak
     actions:
       - label: Learn stuff
         url: /features
