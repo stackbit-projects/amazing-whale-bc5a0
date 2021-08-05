@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Collaboration Simplified
-    subtitle: mak
+    subtitle: Make remote work easy with video meeting tools for anyone
     actions:
       - label: Learn stuff
         url: /features
