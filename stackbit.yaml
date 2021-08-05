@@ -406,6 +406,7 @@ models:
             - feature
       - name: ''
         type: string
+        label: ''
   hero_section:
     type: object
     label: Hero Section
@@ -495,6 +496,8 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+          - name: ''
+            type: string
   team_section:
     type: object
     label: Team Section
