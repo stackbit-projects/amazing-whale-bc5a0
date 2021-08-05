@@ -6,7 +6,7 @@ import BlogPostCategories from './BlogPostCategories';
 import BlogPostMeta from '../components/BlogPostMeta';
 
 
-console.log(@)
+console.log('homie')
 export default class BlogFeedSection extends React.Component {
     renderBlogFeedItemFilter(post, data, section) {
         const sectionTitle = _.get(section, 'title');
